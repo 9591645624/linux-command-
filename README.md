@@ -21,6 +21,3 @@ ps - show current process
 kill- display terminate process 
 chown - change file permission 
 chmod - change file owner and group
-
-ki
-kill
